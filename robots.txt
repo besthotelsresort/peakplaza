@@ -1,4 +1,4 @@
-# robots.txt for https://YOUR-USERNAME.github.io/site-16-peakplaza/
+# robots.txt for https://example.com/site-20-peakplaza/
 User-agent: *
 Allow: /
 Disallow: /404.html
@@ -16,5 +16,5 @@ User-agent: CCBot
 Disallow: /
 
 # Sitemaps
-Sitemap: https://YOUR-USERNAME.github.io/site-16-peakplaza/sitemap.xml
-Host: https://YOUR-USERNAME.github.io/site-16-peakplaza/
+Sitemap: https://example.com/site-20-peakplaza/sitemap.xml
+Host: https://example.com/site-20-peakplaza/
